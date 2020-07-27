@@ -1,0 +1,19 @@
+steps to install or create your own json file
+
+
+1)npm install -g json-server
+
+/*How to run */
+
+2)json-server --watch db.json
+
+after that you get localhost address
+
+
+/*install bootstrap*/
+
+npm i bootstrap react-bootstrap
+
+and
+/refer react-bootstrap.com/
+

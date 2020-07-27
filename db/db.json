@@ -1,0 +1,24 @@
+{
+  "login": [
+    {
+      "name": "Amit",
+      "password": 12345
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "amit",
+      "email": "samit9076@gmail.com",
+      "address": "kamraj",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "sujit",
+      "email": "sujit@gmail.com",
+      "address": "Ramabai",
+      "rating": "3",
+      "id": 5
+    }
+  ]
+}
